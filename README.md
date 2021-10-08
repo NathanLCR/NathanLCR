@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- :open_book: Information's system student at 6rd period.
+- :open_book: Information Systems student at 6rd period.
 - :computer: Currently working at IBM
 - 📫 How to reach me: nathan.lucio13@gmail.com
 
