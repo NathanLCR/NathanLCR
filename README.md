@@ -41,11 +41,14 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=nathanlcr" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=nathanlcr" height="150" alt="stats graph"/>
+  <div style="margin-bottom:10px">
+  </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=6&theme=dracula&hide_border=false&username=nathanlcr" height="300" alt="languages graph"  />
+  
 </div>
 
 ###
-<img href="https://github.com/nathanlcr/nathanlcr/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/NathanLCR/NathanLCR/blob/main/snake.yaml" alt="Snake animation" />
 
 ###
