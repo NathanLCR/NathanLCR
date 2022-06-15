@@ -46,6 +46,6 @@
 </div>
 
 ###
-<img href="https://github.com/NathanLCR/NathanLCR/blob/main/snake.yaml" alt="Snake animation" />
+<img href="https://github.com/nathanlcr/nathanlcr/blob/output/snake.svg" alt="Snake animation" />
 
 ###
