@@ -1,7 +1,7 @@
 <h2 align="left">Hi there 👋</h2>
 
 ###
-<p align="left">- :open_book: Bacheloe at Information Systems.<br>- :computer: Currently working at IBM</p>
+<p align="left">- :open_book: Bachelor at Information Systems.<br>- :computer: Currently working at IBM</p>
 
 ###
 <div align="center">
