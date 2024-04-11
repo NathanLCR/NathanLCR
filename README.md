@@ -47,8 +47,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=6&theme=dracula&hide_border=false&username=nathanlcr" height="300" alt="languages graph"  />
   
 </div>
-
-###
-<img href="https://github.com/NathanLCR/NathanLCR/blob/main/snake.yaml" alt="Snake animation" />
-
-###
